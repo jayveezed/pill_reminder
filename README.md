@@ -90,5 +90,5 @@ For the complete implementation, refer to [`main.py`](main.py) in this repositor
 This project is open-source under the MIT License. Feel free to use and modify it!
 
 ## Author
-Created by **Jacky** (adapted from personal experience helping a family member with dementia).
+Created by **Jas** (adapted from personal experience helping a family member with dementia).
 
